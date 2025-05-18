@@ -1,0 +1,5 @@
+disabled-regions:
+  - spawn
+  - safezone
+
+deny-message: "§cYou cannot use Wind Charges here!"
